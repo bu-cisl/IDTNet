@@ -1,4 +1,4 @@
-# Multiple-scattering simulator-trained neural network for intensity diffraction tomography
+# IDTNet: Multiple-scattering simulator-trained neural network for intensity diffraction tomography
 
 Abstract: Recovering 3D phase features of complex biological samples traditionally sacrifices
 computational efficiency and processing time for physical model accuracy and reconstruction
